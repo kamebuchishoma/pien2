@@ -35,3 +35,15 @@
   height: 100%;
 }
 
+
+.piendaze{
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+
+.gaiyou{
+  display: inline-block;
+  text-align: left;
+}
